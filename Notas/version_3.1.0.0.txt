@@ -1,4 +1,4 @@
-# Notas de la Versión 3.1.0.0
+Versión 3.1.0.0
 Fecha de lanzamiento: 28 de Julio de 2026
 
 ¡El Equipo de desarrollo MDS acaba de publicar algo heavy🔥! Descubre las nuevas herramientas administrativas y mejoras que hemos preparado para el sistema.
