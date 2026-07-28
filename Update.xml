@@ -2,6 +2,6 @@
 <item>
     <version>3.1.0.0</version>
     <url>https://github.com/MaterialDeSoporte/DanielOleary-Versiones/releases/download/v3.1.0.0/Sistema_v3.1.0.0.zip</url>
-    <changelog></changelog>
+    <changelog>https://github.com/MaterialDeSoporte/DanielOleary-Versiones/raw/refs/heads/main/Notas/version_3.1.0.0.txt</changelog>
     <mandatory>false</mandatory>
 </item>
