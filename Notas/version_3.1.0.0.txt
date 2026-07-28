@@ -3,15 +3,20 @@ Fecha de lanzamiento: 28 de Julio de 2026
 
 ¡El Equipo de desarrollo MDS acaba de publicar algo heavy🔥! Descubre las nuevas herramientas administrativas y mejoras que hemos preparado para el sistema.
 
-### 🚀 Lo Nuevo
-* Nuevo Módulo de Control de Asistencias integral, con soporte completo para:
-  - Personal Docente
-  - Personal Administrativo
-  - Personal Obrero
-  - Estudiantes
-* Nueva sección de "Justificaciones", diseñada para agilizar el registro y respaldo de las inasistencias de todo el personal y el alumnado.
-* Nuevos reportes y estadísticas detalladas vinculadas al módulo de asistencias, ideales para facilitar la toma de decisiones.
+🚀 Lo Nuevo
+○ Módulo de Control de Asistencias integral, con soporte completo para:
+  ○ Personal Docente
+  ○ Personal Administrativo
+  ○ Personal Obrero
+  ○ Estudiantes
+○ Nueva sección de "Justificaciones", diseñada para agilizar el registro y respaldo de las inasistencias de todo el personal y el alumnado.
+○ Nuevos reportes y estadísticas detalladas vinculadas al módulo de asistencias, ideales para facilitar la toma de decisiones.
 
-### ✨ Mejoras del Sistema
-* Rediseño visual en la pantalla de Inicio de Sesión, ofreciendo una apariencia más moderna, limpia y agradable.
-* Mejoras generales en la rapidez y estabilidad de la aplicación.
+✨ Mejoras del Sistema y Rendimiento
+○ Consultas y filtrados ultra rápidos: Optimización en la lógica de filtrado para que la búsqueda en los listados sea mucho más fluida.
+○ Indicadores visuales de carga: Incorporación de spinners / pantallas de carga en las listas para una mejor respuesta interactiva.
+○ Nuevo diseño de estados: Estilización y refresco visual en la presentación de los diferentes estados del sistema.
+○ Rediseño en Login: Apariencia más moderna, limpia y agradable en la pantalla de Inicio de Sesión.
+
+🛠️ Correcciones
+○ Corrección de errores y bugs menores reportados en la versión anterior para garantizar máxima estabilidad.
