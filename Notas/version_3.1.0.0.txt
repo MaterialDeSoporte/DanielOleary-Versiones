@@ -1,0 +1,17 @@
+# Notas de la Versión 3.1.0.0
+Fecha de lanzamiento: 28 de Julio de 2026
+
+¡El Equipo de desarrollo MDS acaba de publicar algo heavy🔥! Descubre las nuevas herramientas administrativas y mejoras que hemos preparado para el sistema.
+
+### 🚀 Lo Nuevo
+* Nuevo Módulo de Control de Asistencias integral, con soporte completo para:
+  - Personal Docente
+  - Personal Administrativo
+  - Personal Obrero
+  - Estudiantes
+* Nueva sección de "Justificaciones", diseñada para agilizar el registro y respaldo de las inasistencias de todo el personal y el alumnado.
+* Nuevos reportes y estadísticas detalladas vinculadas al módulo de asistencias, ideales para facilitar la toma de decisiones.
+
+### ✨ Mejoras del Sistema
+* Rediseño visual en la pantalla de Inicio de Sesión, ofreciendo una apariencia más moderna, limpia y agradable.
+* Mejoras generales en la rapidez y estabilidad de la aplicación.
